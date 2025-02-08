@@ -1,5 +1,5 @@
 -- --------------------------------------------------------
--- Host:                         DB-SERVER-01
+-- Host:                         
 -- Server-Version:               11.6.2-MariaDB - mariadb.org binary distribution
 -- Server-Betriebssystem:        Win64
 -- HeidiSQL Version:             12.4.0.6659
